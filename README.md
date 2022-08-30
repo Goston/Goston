@@ -6,4 +6,4 @@
 - Frontend: JavaScript, TypeScript (Vue.js), Spring MVC, Struts 1 & 2, etc...
 
 
-![img](https://github-readme-stats.vercel.app/api?username=goston&count_private=true&include_all_commits=true&show_icons=false&theme=vue-dark)
+![img](https://github-readme-stats.vercel.app/api?username=goston&count_private=true&include_all_commits=true&show_icons=false&theme=vue-dark&cache_seconds=7200)
