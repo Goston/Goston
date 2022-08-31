@@ -1,7 +1,5 @@
 # Hi there, I'm Goston 😏
 
-Senior Technical Manager at International Integrated Systems, Inc.
-
 ### Skill
 
 - Backend: Java (Spring Framework, Spring Boot, Struts 1 & 2, etc...)
