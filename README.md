@@ -4,3 +4,5 @@
 
 - Backend: Java (Spring Framework, Spring Boot, Struts 1 & 2, etc...)
 - Frontend: JavaScript, TypeScript (Vue.js), Spring MVC, Struts 1 & 2, etc...
+
+![](https://komarev.com/ghpvc/?username=Goston&color=blue)
